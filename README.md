@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucianoRam
-- 👀 I’m interested in javaScripts
-- 🌱 I’m currently learning javaScripts
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in javaScript
+- 🌱 I’m currently learning javaScript
+- 💞️ I’m looking to collaborate on ...javaScript
 - 📫 How to reach me ...
 
 <!---
